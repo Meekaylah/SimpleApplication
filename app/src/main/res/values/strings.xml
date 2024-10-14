@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleApplication</string>
+    <string name="main_toolbar">Activity Jump</string>
+    <string name="one_toolbar">Page One</string>
+    <string name="two_toolbar">Page Two</string>
+    <string name="three_toolbar">Page Three</string>
+    <string name="home">Go to Home</string>
+    <string name="page1">Go to Page 1</string>
+    <string name="page2">Go to Page 2</string>
+    <string name="page3">Go to Page 3</string>
+    <string name="image">background</string>
+</resources>
